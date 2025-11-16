@@ -20,10 +20,33 @@ Atuo como analista de atendimento, mas nas horas vagas estou sempre criando proj
 - JavaScript  
 - Lógica de programação  
 - Design responsivo  
-- Versionamento (Git/GitHub)  
+- Versionamento (Git/GitHub)
+- 
+---
+
+## ▶️ Como Rodar Localmente
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/SEU-USUARIO/portfolio-stephany-marciano.git
+````
+
+2. Acesse a pasta:
+
+   ```bash
+   cd portfolio-stephany-marciano
+   ```
+3. Abra `index.html` no navegador ou use o Live Server (VS Code).
 
 ---
 
+## 📈 Deploy
 
-## 📂 Estrutura do Repositório
+Meu portfólio está hospedado na **Vercel** para fácil acesso, deploy contínuo e compartilhamento rápido.
 
+---
+
+## 🤝 Contribuições
+
+Este é meu portfólio pessoal — por enquanto, não estou aceitando contribuições externas para o layout.
+Mas se você quiser dar ideias, me mande uma mensagem!
